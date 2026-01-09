@@ -10,3 +10,5 @@ In this repository you can find all the lab work for the programming module.
 
 # Week 3
 Exercise 1 Grade Calculator
+Exercise 2: Limited Login Attempts
+Exercise 3: Filtering Even Numbers
