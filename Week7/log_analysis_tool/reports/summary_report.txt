@@ -1,0 +1,29 @@
+======================================================================
+SERVER LOG ANALYSIS SUMMARY
+======================================================================
+
+TRAFFIC STATISTICS
+----------------------------------------------------------------------
+Total Requests: 20
+Unique Visitors: 9
+
+HTTP Methods:
+  POST: 11
+  GET: 9
+
+Most Requested URLs:
+  /login: 13 requests
+  /admin: 3 requests
+  /index.html: 1 requests
+  /phpmyadmin: 1 requests
+  /: 1 requests
+
+Status Code Distribution:
+  200: 6
+  302: 1
+  401: 9
+  403: 2
+  404: 1
+  500: 1
+
+======================================================================

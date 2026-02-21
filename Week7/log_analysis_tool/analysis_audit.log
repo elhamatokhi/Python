@@ -1,0 +1,20 @@
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 192.168.1.101 at line 2
+2026-02-21 21:25:57,594 - WARNING - Security: forbidden access 192.168.1.102 -> /admin
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 192.168.1.120 at line 5
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 192.168.1.120 at line 6
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 203.0.113.77 at line 7
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 203.0.113.77 at line 8
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 203.0.113.77 at line 9
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 203.0.113.77 at line 10
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 203.0.113.77 at line 11
+2026-02-21 21:25:57,594 - WARNING - Security: forbidden access 198.51.100.42 -> /admin
+2026-02-21 21:25:57,594 - WARNING - Security: suspicious user agent from 198.51.100.42 at line 12: -
+2026-02-21 21:25:57,594 - WARNING - Security: suspicious user agent from 198.51.100.42 at line 13: -
+2026-02-21 21:25:57,594 - WARNING - Security: suspicious user agent from 198.51.100.88 at line 14: sqlmap/1.6.12#stable
+2026-02-21 21:25:57,594 - WARNING - Security: suspicious user agent from 198.51.100.88 at line 15: sqlmap/1.6.12#stable
+2026-02-21 21:25:57,594 - WARNING - Security: failed authentication from 198.51.100.88 at line 16
+2026-02-21 21:25:57,594 - WARNING - Security: suspicious user agent from 198.51.100.88 at line 16: sqlmap/1.6.12#stable
+2026-02-21 21:25:57,594 - WARNING - Security: possible brute force from IP 203.0.113.77 (5 failures)
+2026-02-21 21:25:57,595 - INFO - Summary report generated: reports/summary_report.txt
+2026-02-21 21:25:57,595 - INFO - Security report generated: reports/security_incidents.txt
+2026-02-21 21:25:57,595 - INFO - Analysis complete: 20 lines, 20 parsed, 0 parse errors. Errors: 13, Security incidents: 17
