@@ -7,15 +7,12 @@ login_attempts = [
 ("Elyas", "failed")
 ]
 
-
 failed_counts = {}
 # count failed login attempts
 for username, status in login_attempts:
     if status =='failed':
-        if username in failed_counts:
-            failed_counts[username] = failed_counts[username] + 1
-        else:
-            failed_counts[username] = 1
+        # Increment the failure count for this user (start at 0 if the user isn't in the dictionary yet)
+        failed_counts[username] = failed_counts.get(username,0) + 1
 
 # Check for accounts that failed 3 or more times
 for username in failed_counts:
