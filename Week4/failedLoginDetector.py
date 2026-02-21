@@ -17,6 +17,6 @@ for username, status in login_attempts:
 # Check for accounts that failed 3 or more times
 for username in failed_counts:
     if failed_counts[username]>= 3:
-        print("ALERT: User '" + username + "' has " + str(failed_counts[username]) + " failed login attempts")
+        print(f"ALERT: User '{username}' has {failed_counts[username]} failed login attempts")
 
 print('Security check completed')
