@@ -1,0 +1,7 @@
+2026-02-24 01:58:01,477 - INFO - User 'admin_user': Successful login.
+2026-02-24 01:58:01,478 - INFO - User 'guest_user': Failed login attempt.
+2026-02-24 01:58:01,478 - INFO - User 'guest_user': Failed login attempt.
+2026-02-24 01:58:01,478 - INFO - User 'guest_user': Failed login attempt.
+2026-02-24 01:58:01,478 - INFO - User 'guest_user': Account locked after multiple failed logins.
+2026-02-24 01:58:01,478 - INFO - User 'guest_user': Login attempt on locked account.
+2026-02-24 01:58:01,478 - INFO - User 'standard_user': Privilege escalated to admin.
