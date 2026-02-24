@@ -1,0 +1,9 @@
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366408] Device created
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366640] Security scan completed; device marked compliant
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366685] Access granted to owner bob
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366709] Access denied to eve: not device owner
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366723] Firmware updated to 1.1.0; compliance reset
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366738] Access denied to bob: device non-compliant
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366748] Admin override access granted to alice
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366757] Device quarantined by admin alice
+2026-02-24 02:33:06,366 - INFO - [2026-02-24T01:33:06.366764] Access denied to alice: device inactive or quarantined
