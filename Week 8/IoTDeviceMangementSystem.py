@@ -174,7 +174,11 @@ class DeviceManager:
                 report["non_compliant"] += 1
 
         return report
-    
+
+
+
+# Example usecases:
+
 admin = User("alice", "admin")
 user1 = User("bob", "standard")
 user2 = User("eve", "standard")
