@@ -1,0 +1,380 @@
+{
+    "Vienna": {
+        "country": "Austria",
+        "coordinates": {
+            "latitude": 48.2082,
+            "longitude": 16.3738
+        },
+        "current_weather": {
+            "temperature": 13.1,
+            "windspeed": 7.6,
+            "weathercode": 0,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Brussels": {
+        "country": "Belgium",
+        "coordinates": {
+            "latitude": 50.8503,
+            "longitude": 4.3517
+        },
+        "current_weather": {
+            "temperature": 19.1,
+            "windspeed": 12.2,
+            "weathercode": 3,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Sofia": {
+        "country": "Bulgaria",
+        "coordinates": {
+            "latitude": 42.6977,
+            "longitude": 23.3219
+        },
+        "current_weather": {
+            "temperature": 9.0,
+            "windspeed": 20.5,
+            "weathercode": 0,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Zagreb": {
+        "country": "Croatia",
+        "coordinates": {
+            "latitude": 45.815,
+            "longitude": 15.9819
+        },
+        "current_weather": {
+            "temperature": 14.7,
+            "windspeed": 6.1,
+            "weathercode": 0,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Nicosia": {
+        "country": "Cyprus",
+        "coordinates": {
+            "latitude": 35.1856,
+            "longitude": 33.3823
+        },
+        "current_weather": {
+            "temperature": 19.0,
+            "windspeed": 14.8,
+            "weathercode": 1,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Prague": {
+        "country": "Czechia",
+        "coordinates": {
+            "latitude": 50.0755,
+            "longitude": 14.4378
+        },
+        "current_weather": {
+            "temperature": 12.0,
+            "windspeed": 1.4,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Copenhagen": {
+        "country": "Denmark",
+        "coordinates": {
+            "latitude": 55.6761,
+            "longitude": 12.5683
+        },
+        "current_weather": {
+            "temperature": 2.8,
+            "windspeed": 17.6,
+            "weathercode": 3,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Tallinn": {
+        "country": "Estonia",
+        "coordinates": {
+            "latitude": 59.437,
+            "longitude": 24.7536
+        },
+        "current_weather": {
+            "temperature": -0.8,
+            "windspeed": 6.5,
+            "weathercode": 1,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Helsinki": {
+        "country": "Finland",
+        "coordinates": {
+            "latitude": 60.1695,
+            "longitude": 24.9354
+        },
+        "current_weather": {
+            "temperature": -3.4,
+            "windspeed": 8.3,
+            "weathercode": 1,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Paris": {
+        "country": "France",
+        "coordinates": {
+            "latitude": 48.8566,
+            "longitude": 2.3522
+        },
+        "current_weather": {
+            "temperature": 19.0,
+            "windspeed": 8.6,
+            "weathercode": 0,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Berlin": {
+        "country": "Germany",
+        "coordinates": {
+            "latitude": 52.52,
+            "longitude": 13.405
+        },
+        "current_weather": {
+            "temperature": 10.0,
+            "windspeed": 9.3,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Athens": {
+        "country": "Greece",
+        "coordinates": {
+            "latitude": 37.9838,
+            "longitude": 23.7275
+        },
+        "current_weather": {
+            "temperature": 15.3,
+            "windspeed": 16.4,
+            "weathercode": 0,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Budapest": {
+        "country": "Hungary",
+        "coordinates": {
+            "latitude": 47.4979,
+            "longitude": 19.0402
+        },
+        "current_weather": {
+            "temperature": 10.9,
+            "windspeed": 14.8,
+            "weathercode": 2,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Dublin": {
+        "country": "Ireland",
+        "coordinates": {
+            "latitude": 53.3498,
+            "longitude": -6.2603
+        },
+        "current_weather": {
+            "temperature": 14.3,
+            "windspeed": 13.7,
+            "weathercode": 3,
+            "time": "2026-02-25T13:45"
+        },
+        "hourly_forecast": []
+    },
+    "Rome": {
+        "country": "Italy",
+        "coordinates": {
+            "latitude": 41.9028,
+            "longitude": 12.4964
+        },
+        "current_weather": {
+            "temperature": 18.9,
+            "windspeed": 5.5,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Riga": {
+        "country": "Latvia",
+        "coordinates": {
+            "latitude": 56.9496,
+            "longitude": 24.1052
+        },
+        "current_weather": {
+            "temperature": 0.6,
+            "windspeed": 8.6,
+            "weathercode": 0,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Vilnius": {
+        "country": "Lithuania",
+        "coordinates": {
+            "latitude": 54.6872,
+            "longitude": 25.2797
+        },
+        "current_weather": {
+            "temperature": 0.8,
+            "windspeed": 10.8,
+            "weathercode": 3,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Luxembourg": {
+        "country": "Luxembourg",
+        "coordinates": {
+            "latitude": 49.6116,
+            "longitude": 6.1319
+        },
+        "current_weather": {
+            "temperature": 14.1,
+            "windspeed": 9.4,
+            "weathercode": 0,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Valletta": {
+        "country": "Malta",
+        "coordinates": {
+            "latitude": 35.8989,
+            "longitude": 14.5146
+        },
+        "current_weather": {
+            "temperature": 17.6,
+            "windspeed": 10.0,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Amsterdam": {
+        "country": "Netherlands",
+        "coordinates": {
+            "latitude": 52.3676,
+            "longitude": 4.9041
+        },
+        "current_weather": {
+            "temperature": 17.3,
+            "windspeed": 15.5,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Warsaw": {
+        "country": "Poland",
+        "coordinates": {
+            "latitude": 52.2297,
+            "longitude": 21.0122
+        },
+        "current_weather": {
+            "temperature": 2.3,
+            "windspeed": 11.2,
+            "weathercode": 3,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Lisbon": {
+        "country": "Portugal",
+        "coordinates": {
+            "latitude": 38.7223,
+            "longitude": -9.1393
+        },
+        "current_weather": {
+            "temperature": 17.3,
+            "windspeed": 3.4,
+            "weathercode": 3,
+            "time": "2026-02-25T13:45"
+        },
+        "hourly_forecast": []
+    },
+    "Bucharest": {
+        "country": "Romania",
+        "coordinates": {
+            "latitude": 44.4268,
+            "longitude": 26.1025
+        },
+        "current_weather": {
+            "temperature": 7.7,
+            "windspeed": 6.4,
+            "weathercode": 2,
+            "time": "2026-02-25T15:45"
+        },
+        "hourly_forecast": []
+    },
+    "Bratislava": {
+        "country": "Slovakia",
+        "coordinates": {
+            "latitude": 48.1486,
+            "longitude": 17.1077
+        },
+        "current_weather": {
+            "temperature": 11.7,
+            "windspeed": 6.1,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Ljubljana": {
+        "country": "Slovenia",
+        "coordinates": {
+            "latitude": 46.0569,
+            "longitude": 14.5058
+        },
+        "current_weather": {
+            "temperature": 15.1,
+            "windspeed": 1.4,
+            "weathercode": 0,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Madrid": {
+        "country": "Spain",
+        "coordinates": {
+            "latitude": 40.4168,
+            "longitude": -3.7038
+        },
+        "current_weather": {
+            "temperature": 19.7,
+            "windspeed": 6.1,
+            "weathercode": 1,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    },
+    "Stockholm": {
+        "country": "Sweden",
+        "coordinates": {
+            "latitude": 59.3293,
+            "longitude": 18.0686
+        },
+        "current_weather": {
+            "temperature": -0.1,
+            "windspeed": 12.2,
+            "weathercode": 3,
+            "time": "2026-02-25T14:45"
+        },
+        "hourly_forecast": []
+    }
+}
