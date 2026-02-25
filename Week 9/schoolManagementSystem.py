@@ -1,5 +1,5 @@
 """
-Exercise 1: School Mangement System 
+Exercise 1 - Week 9: : School Mangement System 
 """
 
 class Person:
