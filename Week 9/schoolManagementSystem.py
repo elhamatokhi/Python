@@ -84,3 +84,16 @@ class Teacher(Person):
             f"My name is {self.name}, I am {self.age} years old, and I teach {self.subject}."
         )
 
+# --------------------------------------------------
+# Testing the Classes
+# --------------------------------------------------
+
+# Create a Student instance
+student = Student(name="Edris", age=15, student_id="PL001")
+
+# Create a Teacher instance
+teacher = Teacher(name="Kai", age=35, subject="Python")
+
+# Display introductions to verify inheritance and method overriding
+print(student.introduce())
+print(teacher.introduce())
