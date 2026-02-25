@@ -62,9 +62,9 @@ for capital in eu_capitals:
         }
 
         # Perfrom API request
-        respose = requests.get(API_URL, params=params, timeout=10)
-        respose.raise_for_status()
-        data = respose.json()
+        response = requests.get(API_URL, params=params, timeout=10)
+        response.raise_for_status()
+        data = response.json()
 
         # Extract current weather safely
         current = data.get("current_weather",{})
@@ -93,7 +93,7 @@ for capital in eu_capitals:
         codes = hourly.get("weathercode", [])
 
         for i in range(len(times)):
-            weather_data[city_name]["hourle_forecast"].append({
+            weather_data[city_name]["hourly_forecast"].append({
                 "time": times[i],
                 "temperature": temps[i],
                 "perciptation_probability": precip[i],
