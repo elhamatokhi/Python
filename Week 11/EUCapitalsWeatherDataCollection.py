@@ -97,7 +97,7 @@ for capital in eu_capitals:
                 "time": times[i],
                 "temperature": temps[i],
                 "perciptation_probability": precip[i],
-                "weathercode": code[i]
+                "weathercode": codes[i]
             })
         print(f"Data collected successfully for {city_name}")
 
