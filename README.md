@@ -2,13 +2,11 @@
 
 This repository contains all the lab assignments and practical exercises from a Python programming module. The content is organized by **week**, showing the topics covered and the projects/exercises completed each week.
 
----
 
-## 📌 Overview
+### 📌 Overview
 
 Each folder corresponds to a **week or group of weeks** in the course. Inside each folder you'll find Python programs and utilities that reinforce coding skills introduced during that period.
 
----
 
 ## 📅 Weekly Breakdown
 
